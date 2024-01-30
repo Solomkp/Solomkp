@@ -7,7 +7,7 @@ I'm a Software Engineer, Content Creator, and a Video Editor who currently work 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm a graduate at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
+- 💡 Fun fact: I'm a graduate at AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/) Class of 2023.
 - 🌱 I learnt JavaScript, and Nodejs.
 - 🌱 I'm currently studying computer science (B.Sc) with University of the People-USA
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
